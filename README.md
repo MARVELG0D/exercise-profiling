@@ -32,10 +32,10 @@ Based on the performance testing conducted using Apache JMeter on the `/all-stud
 #### 3. Evidence
 
 **Before Optimization Screenshot (24s Response Time):**
-![Before Optimization](path/to/your/screenshot_24s.png)
+![Before Optimization]![alt text](image.png)
 
 **After Optimization Screenshot (2.3s Response Time):**
-![After Optimization](path/to/your/screenshot_2s.png)
+![After Optimization]![alt text](<Screenshot 2026-04-28 191309.png>)
 
 ---
 
